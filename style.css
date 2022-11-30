@@ -1,0 +1,31 @@
+.bg {
+    background-image: url("images/baking3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+.bg-about{
+    background-image:url("images/baking3.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  .bg-contactus{
+    background-image:url("images/baking3.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+    .bg-blog{
+        background-image:url("images/baking3.jpg"); 
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+
+  .icon{
+    color: red;
+    text-decoration: none;
+    text-align: center;
+    text-size-adjust;
+  }
+  
